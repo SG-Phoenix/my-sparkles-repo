@@ -1,4 +1,4 @@
 # This course is about creating a pull request
 Add **your** name to the README file :scroll:
 
-SG-Phoenix
+_SG-Phoenix_
